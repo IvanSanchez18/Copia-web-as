@@ -1,0 +1,26 @@
+{
+  "name": "ejercicioas",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanSanchez18/Copia-web-as.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanSanchez18/Copia-web-as/issues"
+  },
+  "homepage": "https://github.com/IvanSanchez18/Copia-web-as#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "vite": "^7.1.7"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.93.2"
+  }
+}
