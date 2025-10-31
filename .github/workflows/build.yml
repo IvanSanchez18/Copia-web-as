@@ -7,7 +7,7 @@ on:
       
 permissions:
   pull-requests: write
-  metadata: write
+  metadata: read
   checks: write
 
 jobs:
